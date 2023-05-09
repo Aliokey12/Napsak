@@ -1,0 +1,33 @@
+.footer-container {
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 18px;
+    }
+    
+    .footer-text {
+    color: #333;
+    font-weight: 500;
+    }
+    
+    .contact-button {
+    display: flex;
+    align-items: center;
+    background-color: #3c3c3c;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    }
+    
+    .contact-button:hover {
+    background-color: #ff2e63;
+    }
+    
+    .contact-icon {
+    margin-right: 10px;
+    font-size: 20px;
+    }
